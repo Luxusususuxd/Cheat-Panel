@@ -3,7 +3,7 @@ Panel that is using Auth.gg as it's database
 
 What language is it written in?
 -
-The whole project is in C# and is using guna framework. If you get an error about Guna just add a reference to Guna which is located in the folder
+The whole project is in C# and is using guna framework. If you get an error about Guna just add a reference to Guna dll which is located in the folder
 
 Why am I leaking this?
 -
