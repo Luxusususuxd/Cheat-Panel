@@ -1,6 +1,10 @@
 # Cheat-Panel
 Panel that is using Auth.gg as it's database
 
+What language is it written in?
+-
+The whole project is in C# and is using guna framework. If you get an error about Guna just add a reference to Guna which is located in the folder
+
 Why am I leaking this?
 -
 It's because I left coding and I want to give away some of my stuff. In the future I may leak more stuff (C# csgo external cheat, Cyberpunk hacks, league of legends hacks...)
